@@ -1,0 +1,8 @@
+.DS_Store
+.vscode
+**/*.pyc
+**/*.pyo
+**/__pycache__
+.mypy_cache/
+**/.pytest_cache/
+.htmlcov
